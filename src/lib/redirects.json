@@ -1,0 +1,34 @@
+[
+  {
+    "path": "twitch",
+    "dest": "https://www.twitch.tv/boostlessbear"
+  },
+  {
+    "path": "discord",
+    "dest": "https://discord.gg/boostlessbearcave"
+  },
+  {
+    "path": "tiktok",
+    "dest": "https://www.tiktok.com/@boostlessbear"
+  },
+  {
+    "path": "statsfm",
+    "dest": "http://stats.fm/boostlessbear"
+  },
+  {
+    "path": "github",
+    "dest": "https://github.com/BoostlessBear"
+  },
+  {
+    "path": "discogs",
+    "dest": "https://www.discogs.com/user/VioletAndBear/collection"
+  },
+  {
+    "path": "spotify",
+    "dest": "https://open.spotify.com/user/1279596075?si=b2ccfe5724704d0c"
+  },
+  {
+    "path": "kofi",
+    "dest": "https://ko-fi.com/boostlessbear"
+  }
+]

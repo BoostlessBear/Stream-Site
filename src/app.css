@@ -1,0 +1,27 @@
+@font-face {
+  font-family: RobotoBold;
+  src: url("$lib/fonts/Roboto-Bold.ttf");
+}
+
+@font-face {
+  font-family: Roboto;
+  src: url("$lib/fonts/Roboto-Regular.ttf");
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: rgba(0, 0, 0, 1);
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  font-size: 1.5em;
+  font-family: 'RobotoBold', sans-serif;
+}
+
+h2 {
+  font-size: 1.25em;
+  color: #aaa;
+}
